@@ -18,5 +18,4 @@ The dataset feature include; date, Appliances, lights,	T1,	RH_1,	T2,	RH_2,	T3,	R
 * Modelling
 
 The Model used for prediction are Lasso, Ridge, KNeighborsRegressor, SVR, RandomForest, ExtraTreeRegressor, GradientBoostingClassifier and
-
 MLPRegressor
